@@ -1,0 +1,10 @@
+{
+  "name": "jaredsLib",
+  "version": "1.0.0",
+  "description": "Helpful shortcuts for JS projects",
+  "main": "index.js",
+  "repository": "git@github.com:JaredVogt/jaredsLib.git",
+  "author": "Jared Vogt <jared.vogt@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
